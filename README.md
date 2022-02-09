@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm Fun
 -->
+
+<!-- joke -->
+<a href="https://youtu.be/sCNrK-n68CM" target="_blank">:trollface:</a>
