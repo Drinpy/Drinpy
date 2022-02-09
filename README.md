@@ -1,11 +1,19 @@
-### Eae! - :brazil:
-### Hello there! - :us:
+## Eae! - :brazil:
+## Hello there! - :us:
 
-##### Welcome to my profile
+#### Welcome to my profile
 
-<p align="center">
-  <img src="https://www.designi.com.br/images/preview/10031550.jpg" width="350" title="hover text">
+<p align="left">
+  Here! use this:
+  <img src="/IMG/aqua_gel-removebg-preview.png" width="16" title="Hmmmm fresh innit!?"> <br>
   
+  
+  
+  Don't forget the mask:
+  <img src="/IMG/pixelmask-preview.png" width="16" title="Soon you'll get used to it">
+ 
+</p>
+
 
 
 
@@ -24,5 +32,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm Fun
 -->
 
-<!-- joke -->
+
+
+
+<!-- joke by Dudushy -->
 <a href="https://youtu.be/sCNrK-n68CM" target="_blank">:trollface:</a>
