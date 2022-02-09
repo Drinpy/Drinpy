@@ -1,4 +1,13 @@
-### Hi there 👋
+### Eae! - :brazil:
+### Hello there! - :us:
+
+##### Welcome to my profile
+
+<p align="center">
+  <img src="https://www.designi.com.br/images/preview/10031550.jpg" width="350" title="hover text">
+  
+
+
 
 <!--
 **Drinpy/Drinpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm Fun
 -->
