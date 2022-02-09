@@ -1,24 +1,28 @@
 ## Eae! Meu nome é Pedro Henrique - :brazil:
 ## Hello there! My name is Pedro Henrique - :us:
+
 </br>
 
 ### Welcome to my profile
+
+</br>
 
 <p align="left">
   Here! use this:&ensp;
     <img src="/IMG/aqua_gel-removebg-preview.png" width="16" title="Hmmmm fresh innit!?"> <br>
    
   
-  
-  
   Don't forget the mask:&ensp;
-  <img src="/IMG/maskpixel-removebg-preview.png" width="20" title="Soon you'll get used to it">
+  <img src="/IMG/maskpixel-removebg-preview.png" width="40" title="Soon you'll get used to it">
  
 </p>
 
 
+</br>
 
+OKAY! Now we can proceed
 
+</br>
 <!--
 **Drinpy/Drinpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
