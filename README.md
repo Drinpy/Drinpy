@@ -26,7 +26,7 @@ OKAY! Now we can proceed.
 ## :bookmark_tabs: Info:
 
 
-
+- :mortar_board:Formation: Attending `2nd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)** *(2020 - 2022)* :x:
 - 🔭 I’m currently working on: Nothing! Just studying and trying/testing stuff
 - 🌱 I’m currently learning: C, Blender, Unity and MD/Html
 - 📫 How to reach me: Email - pedrohbluiz7@gmail.com
