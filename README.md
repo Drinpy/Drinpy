@@ -1,9 +1,9 @@
 ## Eae! Meu nome é Pedro Henrique - :brazil:
 ## Hello there! My name is Pedro Henrique - :us:
+---
 
-</br>
 
-### Welcome to my profile
+### `Welcome to my profile`
 
 </br>
 
@@ -14,32 +14,28 @@
   
   Don't forget the mask:&ensp;
   <img src="/IMG/maskpixel-removebg-preview.png" width="40" title="Soon you'll get used to it">
- 
-</p>
 
 
 </br>
 
-OKAY! Now we can proceed
+OKAY! Now we can proceed.
 
 </br>
-<!--
-**Drinpy/Drinpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+## :bookmark_tabs: Info:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm Fun
--->
+
+
+- 🔭 I’m currently working on: Nothing! Just studying and trying/testing stuff
+- 🌱 I’m currently learning: C, Blender, Unity and MD/Html
+- 📫 How to reach me: Email - pedrohbluiz7@gmail.com
+- :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday
+- ♥️ Currently I'm preffering Front-end
+- 👾 Random facts:  <a href="http://randomfactgenerator.net/"> KNOWLEDGE </a>
 
 
 
 </br></br>
 <!-- joke by Dudushy -->
-<a href="https://youtu.be/sCNrK-n68CM" target="_blank">:trollface:</a>
+<a href="https://youtu.be/sCNrK-n68CM" >:trollface:</a>
