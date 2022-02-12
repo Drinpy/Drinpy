@@ -45,10 +45,6 @@ OKAY! Now we can proceed.
 
 - Email: pedrohbluiz7@gmail.com
 
-<p align="left">
-  
-  <img src="/IMG/png-transparent-spotify-logo-spotify-computer-icons-podcast-music-apps-miscellaneous-angle-logo-removebg-preview.png" width="16" title="Music flows through the soul">
-
 ---
 </br>
 
