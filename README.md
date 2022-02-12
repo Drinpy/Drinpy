@@ -20,21 +20,37 @@
 
 OKAY! Now we can proceed.
 
-</br>
-
 ---
 ## :bookmark_tabs: Info:
 
 
-- :mortar_board:Formation: Attending `2nd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)** *(2020 - 2022)* :x:
-- 🔭 I’m currently working on: Nothing! Just studying and trying/testing stuff
+- :mortar_board:Formation: Attending `2nd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)**
+- 🖥️ I’m currently working on: Nothing! Just studying and trying/testing stuff
 - 🌱 I’m currently learning: C, Blender, Unity and MD/Html
-- 📫 How to reach me: Email - pedrohbluiz7@gmail.com
 - :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday
 - ♥️ Currently I'm preffering Front-end
-- 👾 Random facts:  <a href="http://randomfactgenerator.net/"> KNOWLEDGE </a>
 
 
+---
+## 🎶 As the hours pass...
+
+- I want to work with game development! 
+- I would like to have the opportunity to lead a team!
+- I'm improving my drawing skills!
+- Social sciences draws my attention more and more!
+- I intend to use google translator less!
+
+---
+
+- 📫 Contact: Email - pedrohbluiz7@gmail.com
+
+---
+</br>
+
+## 🎶 Before I'm alone...
+
+#### Try pick a random fact:
+- 👾 <a href="http://randomfactgenerator.net/"> KNOWLEDGE </a>
 
 </br></br>
 <!-- joke by Dudushy -->
