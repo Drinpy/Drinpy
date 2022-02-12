@@ -44,7 +44,10 @@ OKAY! Now we can proceed.
 ## 🎶 What I have...
 
 - Email: pedrohbluiz7@gmail.com
-- <a href="https://open.spotify.com/user/pedrohbluiz7?si=8G8tDQeXQ_WwNlWIYsyTWQ&utm_source=copy-link"> <img src="/IMG/png-transparent-spotify-logo-spotify-computer-icons-podcast-music-apps-miscellaneous-angle-logo-removebg-preview.png" width="16" title="Music flows through the soul"> </a>
+
+<p align="left">
+  
+  <img src="/IMG/png-transparent-spotify-logo-spotify-computer-icons-podcast-music-apps-miscellaneous-angle-logo-removebg-preview.png" width="16" title="Music flows through the soul">
 
 ---
 </br>
