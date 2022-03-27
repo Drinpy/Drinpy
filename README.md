@@ -1,4 +1,4 @@
-## Olá, Mundo! Meu nome é Pedro Henrique - :brazil:
+## Olá, mundo! Meu nome é Pedro Henrique - :brazil:
 ## Hello, world! My name is Pedro Henrique - :us:
 ---
 
