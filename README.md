@@ -1,7 +1,15 @@
 ## Olá, mundo! Meu nome é Pedro Henrique - :brazil:
 ## Hello, world! My name is Pedro Henrique - :us:
 ---
+</br>
 
+<div align="center">
+   <a href="https://github.com/Drinpy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drinpy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
+ </br>
 
 ### `Welcome to my profile`
 
@@ -11,10 +19,10 @@
   Here! use this:&ensp;
     <img src="/IMG/aqua_gel-removebg-preview.png" width="16" title="Hmmmm fresh innit!?"> <br>
    
+</br>
   
   Don't forget the mask:&ensp;
   <img src="/IMG/maskpixel-removebg-preview.png" width="40" title="Soon you'll get used to it">
-
 
 </br>
 
