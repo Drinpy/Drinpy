@@ -1,15 +1,15 @@
 ## Olá, mundo! Meu nome é Pedro Henrique - :brazil:
 ## Hello, world! My name is Pedro Henrique - :us:
 ---
-</br>
+
 </br>
 
-<div align="center">
-   <a href="https://github.com/Drinpy">
-  <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=Drinpy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&layout=compact&langs_count=7&theme=gotham"/>
-  <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=dark">
-   </a>
+<div align="left">
+    <a href="https://github.com/Drinpy">
+        <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=gotham&show_icons=true&count_private=true">
+        <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=gotham&layout=compact">
+        <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=gotham">
+    </a>
 </div>
 
  </br>
