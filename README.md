@@ -6,8 +6,8 @@
 
 <div align="center">
     <a href="https://github.com/Drinpy">
-        <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=gotham&show_icons=true&count_private=true">
-        <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=gotham&layout=compact">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=gotham&show_icons=true&count_private=true">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=gotham&layout=compact">
         <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=gotham">
     </a>
 </div>
