@@ -6,9 +6,11 @@
 
 <div align="center">
     <a href="https://github.com/Drinpy">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=react&show_icons=true&count_private=true">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=react&layout=compact">
-         <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=react">
+        <img height="200cm" width="" src="https://i.picasion.com/pic92/2c6bb70abcdc15c4ac104c645e0cdd90.gif" alt="https://picasion.com/" />
+        <img height="200cm" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=react&layout=compact">
+        <br>
+        <img height="160cm" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=react">
+        <img height="160cm" width="" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=react&show_icons=true&count_private=true">
     </a>
 </div>
 
@@ -68,10 +70,5 @@ OKAY! Now we can proceed.
 </br></br>
 </br>
 
----
-
-<div align="center">
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2c6bb70abcdc15c4ac104c645e0cdd90.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-    </div>
 <!-- joke by Dudushy -->
 <a href="https://youtu.be/sCNrK-n68CM" >:trollface:</a>
