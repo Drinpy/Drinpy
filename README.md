@@ -4,7 +4,7 @@
 
 </br>
 
-<div align="left">
+<div align="center">
     <a href="https://github.com/Drinpy">
         <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=gotham&show_icons=true&count_private=true">
         <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=gotham&layout=compact">
