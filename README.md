@@ -29,9 +29,10 @@
 
 </br>
 
-OKAY! Now we can proceed.
+OKAY! Now we can proceed. 
 
----
+
+--- 
 ## :bookmark_tabs: Info:
 
 
@@ -65,5 +66,12 @@ OKAY! Now we can proceed.
 - 👾 <a href="http://randomfactgenerator.net/"> KNOWLEDGE </a>
 
 </br></br>
+</br>
+
+---
+
+<div align="center">
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2c6bb70abcdc15c4ac104c645e0cdd90.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+    </div>
 <!-- joke by Dudushy -->
 <a href="https://youtu.be/sCNrK-n68CM" >:trollface:</a>
