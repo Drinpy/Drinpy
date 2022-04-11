@@ -6,7 +6,7 @@
 <div align="center">
 	<a href="https://github.com/Drinpy">
 		<img height="200cm" width="" src="https://i.picasion.com/pic92/2c6bb70abcdc15c4ac104c645e0cdd90.gif" alt="https://picasion.com/" />
-		<img height="200cm" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=react&layout=compact">
+		<img height="200cm" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=react&layout=compact">
 		<br>
 		<img height="160cm" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=react">
 		<img height="160cm" width="" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=react&show_icons=true&count_private=true">
