@@ -7,7 +7,7 @@
 	<a href="https://github.com/Drinpy">
 		<img src="https://i.picasion.com/pic92/2c6bb70abcdc15c4ac104c645e0cdd90.gif" alt="https://picasion.com/" />
 		<br>
-		<img style="float: left; width: 420px; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=react&layout=compact">
+		<img style="float: left; width: 220px; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=react&layout=compact">
 		<img style="float: left; width: 420px; height: 200px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=react">
 		<img style="float: left; width: 420px; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=react&show_icons=true&count_private=true">
 	</a>
