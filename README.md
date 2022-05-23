@@ -36,11 +36,11 @@ OKAY! Now we can proceed.
 ## :bookmark_tabs: Info:
 
 
-- :mortar_board:Formation: Attending `2nd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)**
-- 🖥️ I’m currently working on: Nothing! Just studying and trying/testing stuff
-- 🌱 I’m currently learning: C, Blender, Unity and MD/Html
-- :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday
-- ♥️ Currently I'm preffering Front-end
+- :mortar_board:Formation: Attending `3rd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)**;
+- 🖥️ I’m currently working on: Nothing! Just studying and trying/testing stuff;
+- 🌱 I’m currently learning: C, Blender, Unity, HTML/CSS and JavaScript;
+- :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday;
+- ♥️ Currently I'm preffering Front-end;
 
 
 ---
