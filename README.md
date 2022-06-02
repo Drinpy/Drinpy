@@ -23,7 +23,8 @@
     <img src="/IMG/aqua_gel-removebg-preview.png" width="16" title="Hmmmm fresh innit!?"> <br>
    
 </br>
-  
+   currently working on: Nothing! Just studying and trying/testing stuff;
+
   Don't forget the mask:&ensp;
   <img src="/IMG/maskpixel-removebg-preview.png" width="40" title="Soon you'll get used to it">
 
@@ -36,7 +37,7 @@ OKAY! Now we can proceed.
 ## :bookmark_tabs: Info:
 
 
-- :mortar_board:Formation: Attending `3rd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)**;
+- :mortar_board: Formation: Attending `3rd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)**;
 - 🖥️ I’m currently working on: Nothing! Just studying and trying/testing stuff;
 - 🌱 I’m currently learning: C, Blender, Unity, HTML/CSS and JavaScript;
 - :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday;
