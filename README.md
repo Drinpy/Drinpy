@@ -23,7 +23,6 @@
     <img src="/IMG/aqua_gel-removebg-preview.png" width="16" title="Hmmmm fresh innit!?"> <br>
    
 </br>
-   currently working on: Nothing! Just studying and trying/testing stuff;
 
   Don't forget the mask:&ensp;
   <img src="/IMG/maskpixel-removebg-preview.png" width="40" title="Soon you'll get used to it">
