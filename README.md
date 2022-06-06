@@ -1,8 +1,3 @@
-## Olá, mundo! Meu nome é Pedro Henrique - :brazil:
-## Hello, world! My name is Pedro Henrique - :us:
----
-
-</br>
 
 <div align="center">
     <a href="https://github.com/Drinpy">
@@ -13,6 +8,11 @@
 </div>
 
  </br>
+ 
+## Olá, mundo! Meu nome é Pedro Henrique - :brazil:
+## Hello, world! My name is Pedro Henrique - :us:
+
+---
 
 ### `Welcome to my profile`
 
