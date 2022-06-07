@@ -38,7 +38,7 @@ OKAY! Now we can proceed.
 
 - :mortar_board: Formation: Attending `3rd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)**;
 - 🖥️ I’m currently working on: Nothing! Just studying and trying/testing stuff;
-- 🌱 I’m currently learning: C, Blender, Unity, HTML/CSS and JavaScript;
+- 🌱 I’m currently learning: Blender, Unity, HTML/CSS and JavaScript;
 - :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday;
 - ♥️ Currently I'm preffering Front-end;
 
@@ -65,7 +65,7 @@ OKAY! Now we can proceed.
 #### Try pick a random fact:
 - 👾 <a href="http://randomfactgenerator.net/"> KNOWLEDGE </a>
 
-</br></br>
+</br>
 </br>
 
 ---
