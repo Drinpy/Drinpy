@@ -66,7 +66,6 @@ OKAY! Now we can proceed.
 - 👾 <a href="http://randomfactgenerator.net/"> KNOWLEDGE </a>
 
 </br>
-</br>
 
 ---
 
