@@ -10,7 +10,6 @@
  </br>
  
 ## Olá, mundo! Meu nome é Pedro Henrique - :brazil:
-## Hello, world! My name is Pedro Henrique - :us:
 
 ---
 
@@ -31,6 +30,11 @@
 
 OKAY! Now we can proceed. 
 
+</br>
+
+<details>
+
+<summary> <h2> Hello, world! My name is Pedro Henrique - :us: <h2> </summary>
 
 --- 
 ## :bookmark_tabs: Info:
@@ -67,6 +71,8 @@ OKAY! Now we can proceed.
 - 👾 <a href="http://randomfactgenerator.net/"> KNOWLEDGE </a>
 
 </br>
+
+</details>
 
 ---
 
