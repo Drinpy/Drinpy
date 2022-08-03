@@ -38,7 +38,7 @@ OKAY! Now we can proceed.
 ## :bookmark_tabs: Info:
 
 
-- :mortar_board: Formação: Atualmente estou cursando o `3° ano` de **Ciência da Computação** na **UNIFAL** (Universidade Federal de Alfenas)**;
+- :mortar_board: Formação: Atualmente estou cursando o `3° ano` de **Ciência da Computação** na **UNIFAL** (Universidade Federal de Alfenas);
 - 🖥️ Eu estou trabalhando com: Nada! Só estudando e tentando/testando coisas;
 - 🌱 Atualmente estou aprendendo: Blender, Unity, HTML/CSS and JavaScript;
 - :clown_face: Fato curioso: Você provavelmente me convidaria para um churrasco no Domingo;
