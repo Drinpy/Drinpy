@@ -8,8 +8,6 @@
 </div>
 
  </br>
- 
-## Olá, mundo! Meu nome é Pedro Henrique - :brazil:
 
 ---
 
@@ -31,6 +29,48 @@
 OKAY! Now we can proceed. 
 
 </br>
+
+<details>
+
+<summary> <h2> Olá, mundo! Meu nome é Pedro Henrique - :brazil: <h2> </summary>
+
+--- 
+## :bookmark_tabs: Info:
+
+
+- :mortar_board: Formação: Atualmente estou cursando o `3° ano` de **Ciência da Computação** na **UNIFAL** (Universidade Federal de Alfenas)**;
+- 🖥️ Eu estou trabalhando com: Nada! Só estudando e tentando/testando coisas;
+- 🌱 Atualmente estou aprendendo: Blender, Unity, HTML/CSS and JavaScript;
+- :clown_face: Fato curioso: Você provavelmente me convidaria para um churrasco no Domingo;
+- ♥️ Atualmente estou preferindo Front-Dev;
+
+
+---
+## 🎶 As the hours pass...
+
+- Eu quero trabalhar com jogos! 
+- Eu gostaria de ter a oportunidade de liderar uma equipe!
+- Estou treinando desenhos!
+- Ciências sociais me chamam atenção cada vez mais!
+- Eu pretendo usar menos o Google tradutor!
+
+---
+## 🎶 What I have...
+
+- Email: pedrohbluiz7@gmail.com
+
+---
+
+</br>
+
+## 🎶 Before I'm alone...
+
+#### Fatos Aleatórios:
+- 👾 <a href="http://randomfactgenerator.net/"> SABEDORIA </a>
+
+</br>
+
+</details>
 
 <details>
 
