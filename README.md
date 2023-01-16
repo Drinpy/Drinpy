@@ -39,7 +39,7 @@ OKAY! Now we can proceed.
 
 
 - :mortar_board: Formação: Atualmente estou cursando o `3° ano` de **Ciência da Computação** na **UNIFAL** (Universidade Federal de Alfenas);
-- 🖥️ Eu estou trabalhando com: Nada! Só estudando e tentando/testando coisas;
+- 🖥️ Eu estou trabalhando com: Projeto de website;
 - 🌱 Atualmente estou aprendendo: Blender, Unity, HTML/CSS and JavaScript;
 - :clown_face: Fato curioso: Você provavelmente me convidaria para um churrasco no Domingo;
 - ♥️ Atualmente estou preferindo Front-Dev;
@@ -49,9 +49,9 @@ OKAY! Now we can proceed.
 ## 🎶 As the hours pass...
 
 - Eu quero trabalhar com jogos! 
-- Eu gostaria de ter a oportunidade de liderar uma equipe!
+- Gostaria de ter a oportunidade de liderar uma equipe!
 - Estou treinando desenhos!
-- Ciências sociais me chamam atenção cada vez mais!
+- Ciências sociais e História me chamam a atenção!
 - Eu pretendo usar menos o Google tradutor!
 
 ---
@@ -81,7 +81,7 @@ OKAY! Now we can proceed.
 
 
 - :mortar_board: Formation: Attending `3rd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)**;
-- 🖥️ I’m currently working on: Nothing! Just studying and trying/testing stuff;
+- 🖥️ I’m currently working on: Website Project;
 - 🌱 I’m currently learning: Blender, Unity, HTML/CSS and JavaScript;
 - :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday;
 - ♥️ Currently I'm preffering Front-end;
@@ -93,7 +93,7 @@ OKAY! Now we can proceed.
 - I want to work with game development! 
 - I would like to have the opportunity to lead a team!
 - I'm improving my drawing skills!
-- Social sciences draws my attention more and more!
+- Social sciences and History draws my attention more and more!
 - I intend to use google translator less!
 
 ---
