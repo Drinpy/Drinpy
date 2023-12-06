@@ -35,7 +35,7 @@ OKAY! Now we can proceed.
 <summary> <h2> Olá, mundo! Meu nome é Pedro Henrique - :brazil: <h2> </summary>
 
 --- 
-## :bookmark_tabs: Info:
+## 🎶 As the hours pass...
 
 
 - :mortar_board: Formação: Atualmente estou cursando o `3° ano` de **Ciência da Computação** na **UNIFAL** (Universidade Federal de Alfenas);
@@ -46,7 +46,7 @@ OKAY! Now we can proceed.
 
 
 ---
-## 🎶 As the hours pass...
+## 🎶 I will let you know...
 
 - Eu quero trabalhar com jogos! 
 - Gostaria de ter a oportunidade de liderar uma equipe!
@@ -55,7 +55,7 @@ OKAY! Now we can proceed.
 - Eu pretendo usar menos o Google tradutor!
 
 ---
-## 🎶 What I have...
+## 🎶 That I need to ask...
 
 - Email: pedrohbluiz7@gmail.com
 
@@ -77,7 +77,7 @@ OKAY! Now we can proceed.
 <summary> <h2> Hello, world! My name is Pedro Henrique - :us: <h2> </summary>
 
 --- 
-## :bookmark_tabs: Info:
+## 🎶 As the hours pass...
 
 
 - :mortar_board: Formation: Attending `3rd year` of **Computer Science** in **UNIFAL (Universidade Federal de Alfenas)**;
@@ -88,7 +88,7 @@ OKAY! Now we can proceed.
 
 
 ---
-## 🎶 As the hours pass...
+## 🎶 I will let you know...
 
 - I want to work with game development! 
 - I would like to have the opportunity to lead a team!
@@ -97,7 +97,7 @@ OKAY! Now we can proceed.
 - I intend to use google translator less!
 
 ---
-## 🎶 What I have...
+## 🎶 That I need to ask...
 
 - Email: pedrohbluiz7@gmail.com
 
