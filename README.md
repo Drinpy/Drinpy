@@ -84,7 +84,7 @@ OKAY! Now we can proceed.
 - 🖥️ I’m currently working on: Website Project;
 - 🌱 I’m currently learning: Blender, Unity, HTML/CSS and JavaScript;
 - :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday;
-- ♥️ I like Front-end and E;
+- ♥️ I like Front-end and Software Engineering;
 
 
 ---
