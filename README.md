@@ -42,7 +42,7 @@ OKAY! Now we can proceed.
 - 🖥️ Eu estou trabalhando com: Projeto de website;
 - 🌱 Atualmente estou aprendendo: Blender, Unity, HTML/CSS and JavaScript;
 - :clown_face: Fato curioso: Você provavelmente me convidaria para um churrasco no Domingo;
-- ♥️ Atualmente estou preferindo Front-Dev;
+- ♥️ Gosto de Front-end e Engenharia de Software;
 
 
 ---
@@ -84,7 +84,7 @@ OKAY! Now we can proceed.
 - 🖥️ I’m currently working on: Website Project;
 - 🌱 I’m currently learning: Blender, Unity, HTML/CSS and JavaScript;
 - :clown_face: Fun fact: You would probably invite me to a barbecue on Sunday;
-- ♥️ Currently I'm preffering Front-end;
+- ♥️ I like Front-end and E;
 
 
 ---
