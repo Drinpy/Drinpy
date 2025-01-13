@@ -3,7 +3,7 @@
     <a href="https://github.com/Drinpy">
         <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Drinpy&theme=dracula&show_icons=true&count_private=true">
         <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Drinpy&theme=dracula&layout=compact">
-         <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=dracula">
+         <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=dracula"> 
     </a>
 </div>
 
