@@ -2,7 +2,7 @@
 <div align="center">
     <a href="https://github.com/Drinpy">
         <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Drinpy&theme=shadow_red&show_icons=true&count_private=true">
-        <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Drinpy&theme=shadow_red&layout=compact">
+        <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Drinpy&theme=shadow_red&layout=compact"> <br>
          <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=shadow_red"> 
     </a>
 </div>
