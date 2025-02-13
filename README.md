@@ -11,25 +11,6 @@
 
 ---
 
-### `Welcome to my profile`
-
-</br>
-
-<p align="left">
-  Here! use this:&ensp;
-    <img src="/IMG/aqua_gel-removebg-preview.png" width="16" title="Hmmmm fresh innit!?"> <br>
-   
-</br>
-
-  Don't forget the mask:&ensp;
-  <img src="/IMG/maskpixel-removebg-preview.png" width="40" title="Soon you'll get used to it">
-
-</br>
-
-OKAY! Now we can proceed. 
-
-</br>
-
 <details>
 
 <summary> <h2> Olá, mundo! Meu nome é Pedro Henrique - :brazil: <h2> </summary>
@@ -119,8 +100,5 @@ OKAY! Now we can proceed.
 <div align="center">
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2c6bb70abcdc15c4ac104c645e0cdd90.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
     </div>
-<!-- joke by Dudushy -->
-<a href="https://youtu.be/sCNrK-n68CM" >:trollface:</a>
-
 
 <a href="https://www.youtube.com/watch?v=sVx1mJDeUjY"> 🎶 = Lyric Music </a>
