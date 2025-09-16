@@ -29,8 +29,8 @@
 ---
 ## 🎶 I will let you know...
 
-- Eu quero trabalhar com jogos! 
-- Gostaria de ter a oportunidade de liderar uma equipe!
+- Eu trabalho com Game Design! 
+- Gosto de liderar uma equipe!
 - Estou treinando desenhos!
 - Ciências sociais e História me chamam a atenção!
 - Eu pretendo usar menos o Google tradutor!
@@ -71,8 +71,8 @@
 ---
 ## 🎶 I will let you know...
 
-- I want to work with game development! 
-- I would like to have the opportunity to lead a team!
+- I'm working with Game Design! 
+- I like to lead a team!
 - I'm improving my drawing skills!
 - Social sciences and History draws my attention more and more!
 - I intend to use google translator less!
