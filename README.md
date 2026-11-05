@@ -1,9 +1,8 @@
-
 <div align="center">
     <a href="https://github.com/Drinpy">
-        <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Drinpy&theme=shadow_red&show_icons=true&count_private=true">
-        <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Drinpy&theme=shadow_red&layout=compact"> </br>
-         <img height="171cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Drinpy&theme=shadow_red"> 
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Drinpy&theme=shadow_red&show_icons=true">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drinpy&theme=shadow_red&layout=compact"> </br>
+        <img height="171" src="https://streak-stats.demolab.com/?user=Drinpy&theme=shadow_red">
     </a>
 </div>
 
@@ -13,9 +12,9 @@
 
 <details>
 
-<summary> <h2> Olá, mundo! Meu nome é Pedro Henrique - :brazil: <h2> </summary>
+<summary> <h2> Olá, mundo! Meu nome é Pedro Henrique - :brazil; </h2> </summary>
 
---- 
+---
 ## 🎶 As the hours pass...
 
 
@@ -55,9 +54,9 @@
 
 <details>
 
-<summary> <h2> Hello, world! My name is Pedro Henrique - :us: <h2> </summary>
+<summary> <h2> Hello, world! My name is Pedro Henrique - :us: </h2> </summary>
 
---- 
+---
 ## 🎶 As the hours pass...
 
 
@@ -98,7 +97,7 @@
 ---
 
 <div align="center">
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2c6bb70abcdc15c4ac104c645e0cdd90.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-    </div>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2c6bb70abcdc15c4ac104c645e0cdd90.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a>
+</div>
 
 <a href="https://www.youtube.com/watch?v=sVx1mJDeUjY"> 🎶 = Lyric Music </a>
