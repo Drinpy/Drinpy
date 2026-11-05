@@ -12,7 +12,7 @@
 
 <details>
 
-<summary> <h2> Olá, mundo! Meu nome é Pedro Henrique - :brazil; </h2> </summary>
+<summary> <h2> Olá, mundo! Meu nome é Pedro Henrique - :brazil: </h2> </summary>
 
 ---
 ## 🎶 As the hours pass...
